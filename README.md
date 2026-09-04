@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Md. Mahfuzur Rahman 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer \| MERN Stack \| Next.js</b><br>
-  
+  <b>Full-Stack Web Developer | MERN Stack | Next.js</b><br>
 </p>
 
 ---
