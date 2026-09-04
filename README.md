@@ -1,24 +1,67 @@
 <h1 align="center">Hi there, I'm Md. Mahfuzur Rahman 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b><br>
-  B.Sc. in Electrical and Electronic Engineering (DUET)<br>
-  AGM (O&M), Bangladesh Rural Electrification Board, Dhaka
+  <b>Full-Stack Web Developer \| MERN Stack \| Next.js</b><br>
+  
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am an Electrical Engineer working at the **Bangladesh Rural Electrification Board**, with a strong passion for building modern web applications. My background in Electrical and Electronic Engineering (EEE) gives me a unique, analytical approach to problem-solving in software development.
+I’m a Full-Stack Web Developer focused on building modern, responsive,
+and maintainable web applications with React.js, Next.js, Node.js,
+Express.js, MongoDB, TypeScript, REST APIs, TanStack Query, and Zustand.
 
-I love bridging the gap between the physical world of electrical systems and the digital world of code. Currently, I'm sharpening my skills in full-stack web development, focusing on creating clean, responsive, and user-friendly interfaces.
+My background in Electrical & Electronic Engineering and professional
+engineering experience has strengthened my analytical thinking,
+problem-solving, and systems-oriented approach.
 
 ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Next.js
+- Tailwind CSS
+
+### Backend & Database
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- REST APIs
+
+### Authentication & Data
+
+- JWT authentication
+- Cookie-based authentication
+- bcrypt password hashing
+- Email verification / OTP
+- TanStack Query
+- Zustand
+- Axios
+
+### Tools
+
+- Git & GitHub
+- VS Code
+- Docker
 
 ### 🛠️ My Skill Set
 
 Here’s an overview of my combined engineering and development expertise:
+
+**Web Development**
+*   **Frontend:** `HTML5`, `CSS3`, `Tailwind CSS`, `JavaScript`
+*   **Frameworks/Libraries:** React.js, Next.js
+*   **Tools:** `Git`, `GitHub`, VS Code
+*   **Concepts:** Responsive Web Design (Flexbox, Grid), DOM Manipulation
+
 
 **Electrical Engineering**
 *   Power Systems & Distribution
@@ -26,25 +69,82 @@ Here’s an overview of my combined engineering and development expertise:
 *   Renewable Energy Technologies
 *   Project Management in the Utility Sector
 
-**Web Development**
-*   **Frontend:** `HTML5`, `CSS3`, `JavaScript`
-*   **Frameworks/Libraries:** Currently exploring React.js
-*   **Tools:** `Git`, `GitHub`, VS Code
-*   **Concepts:** Responsive Web Design (Flexbox, Grid), DOM Manipulation
-
 ---
 
 ### 📂 Featured Work Summary
 
 Here are some of my key web development projects:
 
-*   **[MRtech-landing-page](https://mahfuzeee.github.io/MRtech-landing-page)**: A responsive landing page project for a fictional company, built with HTML and CSS to practice layout and design principles.
-*   **[odin-recipes](https://github.com/mahfuzeee/odin-recipes)**: A basic HTML recipe website, one of my first projects focusing on foundational HTML structure.
-*   **[css-exercises](https://github.com/mahfuzeee/css-exercises)**: A collection of CSS exercises from The Odin Project, showcasing my journey in mastering styling and layouts.
-*   **[top-sign-up-form](https://github.com/mahfuzeee/top-sign-up-form)**: A project focused on building a modern, client-side sign-up form.
-*   **[tic-tac-toe-op](https://github.com/mahfuzeee/tic-tac-toe-op)**: A classic Tic-Tac-Toe game built with JavaScript to practice logic and interactivity.
+### 💼 Full-Stack MERN Job Portal
 
-> I am continuously working on new projects and expanding my development portfolio.
+A full-stack job portal with a React + Vite frontend and Node.js,
+Express, MongoDB backend.
+
+**Highlights:** authentication, JWT, job posting and management,
+applications, user dashboard, REST APIs, MongoDB/Mongoose, Zustand,
+React Query.
+
+- Live Demo: https://job-portal-mern-five-sigma.vercel.app/
+- Repository: https://github.com/mahfuzeee/job-portal-full-stack-MERN
+
+### 🛒 E-commerce Frontend
+
+A full-scale React e-commerce frontend project with product-focused UI
+and application workflows.
+
+**Focus:** product catalogue, search/filtering, pagination, API
+integration, and responsive UI.
+
+- Repository: https://github.com/mahfuzeee/ecommerce-frontend-react
+
+### 📝 Blog Services API
+
+A backend API built with Express and MongoDB featuring
+registration/login, JWT authentication, protected routes, blog CRUD,
+threaded comments, service/repository layers, bcrypt, and Pino logging.
+
+- Repository: https://github.com/mahfuzeee/blog-services-api
+
+### 🎓 Course Management Backend API
+
+An Express + MongoDB API for user authentication, profiles, and
+protected course CRUD operations using JWT cookies.
+
+- Repository:
+  https://github.com/mahfuzeee/course-management-backend-mern
+
+### 🔐 Email Verification — MERN
+
+A MERN-oriented authentication project implementing registration and
+email verification through verification links/OTP with MongoDB.
+
+- Repository: https://github.com/mahfuzeee/email-verification-mern
+
+## 📚 Development Journey
+
+My repositories also include hands-on work with JavaScript DOM
+manipulation, responsive HTML/CSS, React frontend development, shopping
+carts, blog interfaces, admin dashboards, form validation, Node.js
+fundamentals, Express/MongoDB, and Git/GitHub workflows.
+
+## 🎯 Current Focus
+
+I’m continuing to strengthen my production-ready full-stack development
+skills, especially: - Advanced React.js and Next.js - TypeScript -
+Node.js and Express - MongoDB and database design - REST API
+architecture - Authentication and authorization - TanStack Query and
+state management - Testing - Docker and deployment - Clean and
+maintainable code
+
+## ⚡ Engineering + Software
+
+I also work professionally as an Electrical Engineer with experience in
+power distribution, 33/11 kV substations, maintenance, protection
+systems, and industrial automation.
+
+This combination gives me a particular interest in software products
+involving energy, utilities, industrial automation, IoT, monitoring
+dashboards, and engineering systems.
 
 ---
 
