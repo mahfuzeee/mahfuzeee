@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Md. Mahfuzur Rahman 👋</h1>
 
 <p align="center">
-  <b>Electrical Engineer & Web Developer</b><br>
+  <b>Full Stack Developer</b><br>
   B.Sc. in Electrical and Electronic Engineering (DUET)<br>
   AGM (O&M), Bangladesh Rural Electrification Board, Dhaka
 </p>
