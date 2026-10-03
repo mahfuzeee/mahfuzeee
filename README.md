@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 I’m a Full-Stack Web Developer focused on building modern, responsive,
-and maintainable web applications with React.js, Next.js, Node.js,
+and maintainable Saas web applications with React.js, Next.js, Node.js,
 Express.js, MongoDB, TypeScript, REST APIs, TanStack Query, and Zustand.
 
 My background in Electrical & Electronic Engineering and professional
@@ -34,6 +34,7 @@ problem-solving, and systems-oriented approach.
 - MongoDB
 - Mongoose
 - REST APIs
+- PostgreSQL
 
 ### Authentication & Data
 
@@ -56,7 +57,7 @@ problem-solving, and systems-oriented approach.
 Here’s an overview of my combined engineering and development expertise:
 
 **Web Development**
-*   **Frontend:** `HTML5`, `CSS3`, `Tailwind CSS`, `JavaScript`
+*   **Frontend:** `HTML5`, `CSS3`, `Tailwind CSS`, `JavaScript`, `TypeScript`
 *   **Frameworks/Libraries:** React.js, Next.js
 *   **Tools:** `Git`, `GitHub`, VS Code
 *   **Concepts:** Responsive Web Design (Flexbox, Grid), DOM Manipulation
@@ -86,14 +87,14 @@ React Query.
 - Live Demo: https://job-portal-mern-five-sigma.vercel.app/
 - Repository: https://github.com/mahfuzeee/job-portal-full-stack-MERN
 
-### 🛒 E-commerce Frontend
+### 🛒 E-commerce Platform
 
-A full-scale React e-commerce frontend project with product-focused UI
+A full-scale React e-commerce platform project with a product-focused UI
 and application workflows.
 
 **Focus:** product catalogue, search/filtering, pagination, API
 integration, and responsive UI.
-
+- Live Demo: https://ecomerce-frontend-mr.vercel.app
 - Repository: https://github.com/mahfuzeee/ecommerce-frontend-react
 
 ### 📝 Blog Services API
@@ -158,7 +159,7 @@ dashboards, and engineering systems.
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me through any of the platforms below.
 
 <p align="center">
-  <a href="http://mahfuzduet.wordpress.com/">
+  <a href="https://mahfuzrk.vercel.app/">
     <img src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/mahfuzdh/">
