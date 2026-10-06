@@ -1,3 +1,5 @@
+<img src="./assets/github-cover.svg" alt="GitHub cover" width="100%" />
+
 <h1 align="center">Hi there, I'm Md. Mahfuzur Rahman 👋</h1>
 
 <p align="center">
@@ -45,6 +47,7 @@ problem-solving, and systems-oriented approach.
 - TanStack Query
 - Zustand
 - Axios
+- Redux
 
 ### Tools
 
@@ -57,17 +60,18 @@ problem-solving, and systems-oriented approach.
 Here’s an overview of my combined engineering and development expertise:
 
 **Web Development**
-*   **Frontend:** `HTML5`, `CSS3`, `Tailwind CSS`, `JavaScript`, `TypeScript`
-*   **Frameworks/Libraries:** React.js, Next.js
-*   **Tools:** `Git`, `GitHub`, VS Code
-*   **Concepts:** Responsive Web Design (Flexbox, Grid), DOM Manipulation
 
+- **Frontend:** `HTML5`, `CSS3`, `Tailwind CSS`, `JavaScript`, `TypeScript`
+- **Frameworks/Libraries:** React.js, Next.js
+- **Tools:** `Git`, `GitHub`, VS Code
+- **Concepts:** Responsive Web Design (Flexbox, Grid), DOM Manipulation
 
 **Electrical Engineering**
-*   Power Systems & Distribution
-*   VCB, Relay Troubleshooting and Maintenance
-*   Renewable Energy Technologies
-*   Project Management in the Utility Sector
+
+- Power Systems & Distribution
+- VCB, Relay Troubleshooting and Maintenance
+- Renewable Energy Technologies
+- Project Management in the Utility Sector
 
 ---
 
@@ -93,16 +97,17 @@ A full-scale React e-commerce platform project with a product-focused UI
 and application workflows.
 
 **Focus:** product catalogue, search/filtering, pagination, API
-integration, and responsive UI.
+integration, and responsive UI. REST APIs, TanStack Query, Zustand, JWT, MongoDB.
+
 - Live Demo: https://ecomerce-frontend-mr.vercel.app
-- Repository: https://github.com/mahfuzeee/ecommerce-frontend-react
+- Frontend Repo: https://github.com/mahfuzeee/ecommerce-frontend-react
+- Backend Repo: https://github.com/mahfuzeee/ecommerce-backend-mern
 
-### 📝 Blog Services API
+### 📝 Blog Services Full-Stack
 
-A backend API built with Express and MongoDB featuring
-registration/login, JWT authentication, protected routes, blog CRUD,
-threaded comments, service/repository layers, bcrypt, and Pino logging.
+A full-stack blog platform built with React, Express and MongoDB featuring responsive UI, blog posting, registration/login, REST APIs, JWT authentication, protected routes, blog CRUD, threaded comments, service/repository layers, bcrypt, and Pino logging.
 
+- Live Demo: https://inkwell-blog-react.vercel.app
 - Repository: https://github.com/mahfuzeee/blog-services-api
 
 ### 🎓 Course Management Backend API
@@ -118,6 +123,7 @@ protected course CRUD operations using JWT cookies.
 A MERN-oriented authentication project implementing registration and
 email verification through verification links/OTP with MongoDB.
 
+- Live Demo: https://email-verification-mern.vercel.app
 - Repository: https://github.com/mahfuzeee/email-verification-mern
 
 ## 📚 Development Journey
