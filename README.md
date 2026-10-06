@@ -166,11 +166,13 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <p align="center">
   <a href="https://mahfuzrk.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-%2312100E.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mahfuzdh/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/mahfuzeee">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
