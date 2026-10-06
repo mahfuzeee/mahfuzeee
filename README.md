@@ -110,14 +110,6 @@ A full-stack blog platform built with React, Express and MongoDB featuring respo
 - Live Demo: https://inkwell-blog-react.vercel.app
 - Repository: https://github.com/mahfuzeee/blog-services-api
 
-### 🎓 Course Management Backend API
-
-An Express + MongoDB API for user authentication, profiles, and
-protected course CRUD operations using JWT cookies.
-
-- Repository:
-  https://github.com/mahfuzeee/course-management-backend-mern
-
 ### 🔐 Email Verification — MERN
 
 A MERN-oriented authentication project implementing registration and
